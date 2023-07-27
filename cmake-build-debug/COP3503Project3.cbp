@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="COP3503Project3"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\usr\;CMake Files\..\..\..\..\usr\local\;CMake Files\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\usr\local\lib\cmake\SFML\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/cadenkolesar/CLionProjects/COP3503Project3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/cadenkolesar/CLionProjects/COP3503Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/cadenkolesar/CLionProjects/COP3503Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/cadenkolesar/CLionProjects/COP3503Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/cadenkolesar/CLionProjects/COP3503Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/cadenkolesar/CLionProjects/COP3503Project3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/cadenkolesar/CLionProjects/COP3503Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/cadenkolesar/CLionProjects/COP3503Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/cadenkolesar/CLionProjects/COP3503Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/cadenkolesar/CLionProjects/COP3503Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/cadenkolesar/CLionProjects/COP3503Project3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/cadenkolesar/CLionProjects/COP3503Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/cadenkolesar/CLionProjects/COP3503Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/cadenkolesar/CLionProjects/COP3503Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/cadenkolesar/CLionProjects/COP3503Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HelloSFML">
+				<Option output="/Users/cadenkolesar/CLionProjects/COP3503Project3/cmake-build-debug/HelloSFML" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/cadenkolesar/CLionProjects/COP3503Project3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/cadenkolesar/CLionProjects/COP3503Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 HelloSFML"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/cadenkolesar/CLionProjects/COP3503Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/cadenkolesar/CLionProjects/COP3503Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/cadenkolesar/CLionProjects/COP3503Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HelloSFML/fast">
+				<Option output="/Users/cadenkolesar/CLionProjects/COP3503Project3/cmake-build-debug/HelloSFML" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/cadenkolesar/CLionProjects/COP3503Project3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/cadenkolesar/CLionProjects/COP3503Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 HelloSFML/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/cadenkolesar/CLionProjects/COP3503Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/cadenkolesar/CLionProjects/COP3503Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/cadenkolesar/CLionProjects/COP3503Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/cadenkolesar/CLionProjects/COP3503Project3/Board.cpp">
+			<Option target="HelloSFML"/>
+		</Unit>
+		<Unit filename="/Users/cadenkolesar/CLionProjects/COP3503Project3/Board.h">
+			<Option target="HelloSFML"/>
+		</Unit>
+		<Unit filename="/Users/cadenkolesar/CLionProjects/COP3503Project3/TextureManager.cpp">
+			<Option target="HelloSFML"/>
+		</Unit>
+		<Unit filename="/Users/cadenkolesar/CLionProjects/COP3503Project3/TextureManager.h">
+			<Option target="HelloSFML"/>
+		</Unit>
+		<Unit filename="/Users/cadenkolesar/CLionProjects/COP3503Project3/Tile.cpp">
+			<Option target="HelloSFML"/>
+		</Unit>
+		<Unit filename="/Users/cadenkolesar/CLionProjects/COP3503Project3/Tile.h">
+			<Option target="HelloSFML"/>
+		</Unit>
+		<Unit filename="/Users/cadenkolesar/CLionProjects/COP3503Project3/main.cpp">
+			<Option target="HelloSFML"/>
+		</Unit>
+		<Unit filename="/Users/cadenkolesar/CLionProjects/COP3503Project3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/cadenkolesar/CLionProjects/COP3503Project3/../../../../usr/local/lib/cmake/SFML/SFMLConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/cadenkolesar/CLionProjects/COP3503Project3/../../../../usr/local/lib/cmake/SFML/SFMLConfigDependencies.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/cadenkolesar/CLionProjects/COP3503Project3/../../../../usr/local/lib/cmake/SFML/SFMLConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/cadenkolesar/CLionProjects/COP3503Project3/../../../../usr/local/lib/cmake/SFML/SFMLSharedTargets-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/cadenkolesar/CLionProjects/COP3503Project3/../../../../usr/local/lib/cmake/SFML/SFMLSharedTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\SFML\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
